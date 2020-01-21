@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb94a6efc38c70bbe23a737bcb3fd67b",
+    "revision": "607fe66f687ace3ffd5110aa6b63b2bf",
     "url": "/wetherbee-admin/index.html"
   },
   {
-    "revision": "327ebd9e8a1392074894",
+    "revision": "a903a643d50c6c72f64a",
     "url": "/wetherbee-admin/static/css/2.88a9e19c.chunk.css"
   },
   {
-    "revision": "a2083e50836c6f992dbe",
+    "revision": "f5d97cf23b0b7f2c0305",
     "url": "/wetherbee-admin/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "327ebd9e8a1392074894",
-    "url": "/wetherbee-admin/static/js/2.83d80c1e.chunk.js"
+    "revision": "a903a643d50c6c72f64a",
+    "url": "/wetherbee-admin/static/js/2.80e05c2c.chunk.js"
   },
   {
     "revision": "0bc7b1a32b50055ba5011d82f01aa9a5",
-    "url": "/wetherbee-admin/static/js/2.83d80c1e.chunk.js.LICENSE"
+    "url": "/wetherbee-admin/static/js/2.80e05c2c.chunk.js.LICENSE"
   },
   {
-    "revision": "a2083e50836c6f992dbe",
-    "url": "/wetherbee-admin/static/js/main.5d7655ee.chunk.js"
+    "revision": "f5d97cf23b0b7f2c0305",
+    "url": "/wetherbee-admin/static/js/main.55df415d.chunk.js"
   },
   {
     "revision": "15594cc75c46e7845db0",

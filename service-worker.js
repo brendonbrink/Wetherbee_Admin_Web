@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wetherbee-admin/precache-manifest.011751bc47c5eb1b85c59c3f6d3c19bd.js"
+  "/wetherbee-admin/precache-manifest.9c433a130efd04e44fdfe5ecbec05611.js"
 );
 
 self.addEventListener('message', (event) => {
