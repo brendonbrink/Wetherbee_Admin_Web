@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/wetherbee-admin/static/css/main.d1b05096.chunk.css",
-    "main.js": "/wetherbee-admin/static/js/main.55df415d.chunk.js",
-    "main.js.map": "/wetherbee-admin/static/js/main.55df415d.chunk.js.map",
-    "runtime-main.js": "/wetherbee-admin/static/js/runtime-main.e539825c.js",
-    "runtime-main.js.map": "/wetherbee-admin/static/js/runtime-main.e539825c.js.map",
-    "static/css/2.88a9e19c.chunk.css": "/wetherbee-admin/static/css/2.88a9e19c.chunk.css",
-    "static/js/2.80e05c2c.chunk.js": "/wetherbee-admin/static/js/2.80e05c2c.chunk.js",
-    "static/js/2.80e05c2c.chunk.js.map": "/wetherbee-admin/static/js/2.80e05c2c.chunk.js.map",
-    "index.html": "/wetherbee-admin/index.html",
-    "precache-manifest.9c433a130efd04e44fdfe5ecbec05611.js": "/wetherbee-admin/precache-manifest.9c433a130efd04e44fdfe5ecbec05611.js",
-    "service-worker.js": "/wetherbee-admin/service-worker.js",
-    "static/css/2.88a9e19c.chunk.css.map": "/wetherbee-admin/static/css/2.88a9e19c.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/wetherbee-admin/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.80e05c2c.chunk.js.LICENSE": "/wetherbee-admin/static/js/2.80e05c2c.chunk.js.LICENSE",
-    "static/media/logo.svg": "/wetherbee-admin/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Wetherbee_Admin_Web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Wetherbee_Admin_Web/static/js/main.2e5bb08e.chunk.js",
+    "main.js.map": "/Wetherbee_Admin_Web/static/js/main.2e5bb08e.chunk.js.map",
+    "runtime-main.js": "/Wetherbee_Admin_Web/static/js/runtime-main.75701647.js",
+    "runtime-main.js.map": "/Wetherbee_Admin_Web/static/js/runtime-main.75701647.js.map",
+    "static/css/2.88a9e19c.chunk.css": "/Wetherbee_Admin_Web/static/css/2.88a9e19c.chunk.css",
+    "static/js/2.80e05c2c.chunk.js": "/Wetherbee_Admin_Web/static/js/2.80e05c2c.chunk.js",
+    "static/js/2.80e05c2c.chunk.js.map": "/Wetherbee_Admin_Web/static/js/2.80e05c2c.chunk.js.map",
+    "index.html": "/Wetherbee_Admin_Web/index.html",
+    "precache-manifest.55a62137978fabb5f2a52759b176be34.js": "/Wetherbee_Admin_Web/precache-manifest.55a62137978fabb5f2a52759b176be34.js",
+    "service-worker.js": "/Wetherbee_Admin_Web/service-worker.js",
+    "static/css/2.88a9e19c.chunk.css.map": "/Wetherbee_Admin_Web/static/css/2.88a9e19c.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/Wetherbee_Admin_Web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.80e05c2c.chunk.js.LICENSE": "/Wetherbee_Admin_Web/static/js/2.80e05c2c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Wetherbee_Admin_Web/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e539825c.js",
+    "static/js/runtime-main.75701647.js",
     "static/css/2.88a9e19c.chunk.css",
     "static/js/2.80e05c2c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.55df415d.chunk.js"
+    "static/js/main.2e5bb08e.chunk.js"
   ]
 }
